@@ -1,6 +1,6 @@
 {
-    "version":  "1.0.0",
-    "notes":  "Versao inicial.",
-    "url":  "https://github.com/hhernany/agr-releases/releases/download/v1.0.0/agr_setup_1.0.0.exe",
-    "sha256":  "1b84c4ef436a50e866b969a32b76826d1f2b41caffa4ecae3a1d9113dbb0ba29"
+    "version":  "1.0.1",
+    "notes":  "Teste de atualizacao automatica.",
+    "url":  "https://github.com/hhernany/agr-releases/releases/download/v1.0.1/agr_setup_1.0.1.exe",
+    "sha256":  "3996904662575635e1d467b9b51bc22c71794b0a9bc9bacf7d1f4068c84b94cf"
 }
