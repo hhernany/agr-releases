@@ -1,6 +1,6 @@
 {
-    "version":  "1.0.4",
-    "notes":  "Esta versão traz melhorias e correções.",
-    "url":  "https://github.com/hhernany/agr-releases/releases/download/v1.0.4/agr_setup_1.0.4.exe",
-    "sha256":  "5146ba6ef637e621b85918a78486cc52811491d403463983baa1c1790cc9cfc9"
+    "version":  "1.0.5",
+    "notes":  "Novo visual dos relatorios, melhorias e correcoes.",
+    "url":  "https://github.com/hhernany/agr-releases/releases/download/v1.0.5/agr_setup_1.0.5.exe",
+    "sha256":  "96e4fe174e524dc071f1c41b57d87521b709f7df9a628c85eec0760a8cf41416"
 }
